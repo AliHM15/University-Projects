@@ -1,0 +1,12 @@
+bus 11                Contact no: 03110299803 
+
+ranchor line      6:40
+shoe market       6:42
+garden            6:45
+soldier bazar # 1 6:48
+soldier bazar # 4 6:49
+gurumandaer       6:52
+jail road         6:55
+chandni chowke    7:00 
+bahria university 7:05
+gulshan-e-jamal   7:08 

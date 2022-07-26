@@ -1,0 +1,49 @@
+1.Orangi town
+
+2.New Karachi
+
+3.Buffer zone
+
+4.North nazimabad
+
+5.Gulberg town
+
+6.Federal-B area
+
+7.Nazimabad
+
+8.SITE area
+
+9.Lyari
+
+10.Mazar-e-Quaid
+
+11.Bahadurabad
+
+12.Pechs society
+
+13.Karachi cantonment
+
+14.Gulshan-e-iqbal
+
+15.Gulistan-e-johar
+
+16.Shahr-e-faisal
+
+17.Airport
+
+18.Malir cant
+
+19.Landi
+
+20.Korangi
+
+21.Defence
+
+22.Clifton
+
+23.Shah faisal town
+
+24.Gulshan-e-maymar
+
+25.Gulshan-e-hadeed

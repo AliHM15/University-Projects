@@ -1,0 +1,48 @@
+Abbottabad,12.6
+Adamke Cheema,18
+Arandu,4.1
+Astore,2.8
+Badin,26.8
+Balakot,13.2
+Bahawalngar,21.8
+Barkhan,14.9
+Chawinda,20.2
+Chenab Nagar,19
+Chiniot,19
+Chunian,20.9
+Dalbandin,15.8
+Drosh,-3.1
+Harchoke,21.4
+Haripur,16.3
+Hyderabad,25
+Memon Nagar,25.8
+Multan,21.5
+Naushahro Feroze,23.2
+Nok Kundi,18.7
+Ormara,23
+Panjgur,17.4
+Parachinar,3.3
+Pasni,23
+Peshawar,16.7
+Islamabad,17.6
+Karachi,25.8
+Khuzdar,17
+Lahore,19.8
+Larkana,24
+Rawlpindi,17
+Rawalakot,17
+Gujranwala,20.3
+Gilgit,9.6
+Gaddani,23.3
+Gwadar,23
+Faisalabad,21
+Jhelum,20
+Sargodha,20.3
+Sialkot,20.2
+Sibi,22.7
+Skardu,-3
+Tando Allahyar,25
+Tarlai Kalan,17.7
+Wadala Sandhuan,20.3
+Zhob,12.8
+
